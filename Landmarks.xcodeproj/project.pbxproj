@@ -11,6 +11,8 @@
 		562220B22676E3A300DDC0D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562220B12676E3A300DDC0D9 /* ContentView.swift */; };
 		562220B42676E3A300DDC0D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 562220B32676E3A300DDC0D9 /* Assets.xcassets */; };
 		562220B72676E3A300DDC0D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 562220B62676E3A300DDC0D9 /* Preview Assets.xcassets */; };
+		562220BF2676F01700DDC0D9 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562220BE2676F01700DDC0D9 /* CircleImage.swift */; };
+		562220C12676F19F00DDC0D9 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562220C02676F19F00DDC0D9 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		562220B32676E3A300DDC0D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		562220B62676E3A300DDC0D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		562220B82676E3A300DDC0D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		562220BE2676F01700DDC0D9 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		562220C02676F19F00DDC0D9 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				562220AF2676E3A300DDC0D9 /* LandmarksApp.swift */,
 				562220B12676E3A300DDC0D9 /* ContentView.swift */,
 				562220B32676E3A300DDC0D9 /* Assets.xcassets */,
+				562220BE2676F01700DDC0D9 /* CircleImage.swift */,
+				562220C02676F19F00DDC0D9 /* MapView.swift */,
 				562220B82676E3A300DDC0D9 /* Info.plist */,
 				562220B52676E3A300DDC0D9 /* Preview Content */,
 			);
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				562220B22676E3A300DDC0D9 /* ContentView.swift in Sources */,
+				562220C12676F19F00DDC0D9 /* MapView.swift in Sources */,
 				562220B02676E3A300DDC0D9 /* LandmarksApp.swift in Sources */,
+				562220BF2676F01700DDC0D9 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
