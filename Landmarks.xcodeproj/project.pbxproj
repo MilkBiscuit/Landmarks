@@ -64,6 +64,7 @@
 		567C40FA267FE48E003ABC7E /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562220AF2676E3A300DDC0D9 /* LandmarksApp.swift */; };
 		567C40FB267FE48E003ABC7E /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566C58B52677F3700033F286 /* Landmark.swift */; };
 		567C40FC267FE48E003ABC7E /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566C58BE2677F94D0033F286 /* LandmarkList.swift */; };
+		567C40FE267FE651003ABC7E /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C40FD267FE651003ABC7E /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -159,6 +160,7 @@
 		567C40E2267FE395003ABC7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		567C40E4267FE395003ABC7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		567C40E5267FE395003ABC7E /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		567C40FD267FE651003ABC7E /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -351,6 +353,7 @@
 				567C40E4267FE395003ABC7E /* Info.plist */,
 				567C40E5267FE395003ABC7E /* PushNotificationPayload.apns */,
 				567C40E1267FE395003ABC7E /* Preview Content */,
+				567C40FD267FE651003ABC7E /* LandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
@@ -543,6 +546,7 @@
 				567C40D8267FE394003ABC7E /* ContentView.swift in Sources */,
 				567C40FC267FE48E003ABC7E /* LandmarkList.swift in Sources */,
 				567C40FA267FE48E003ABC7E /* LandmarksApp.swift in Sources */,
+				567C40FE267FE651003ABC7E /* LandmarkDetail.swift in Sources */,
 				567C40F5267FE48E003ABC7E /* Profile.swift in Sources */,
 				567C40DE267FE394003ABC7E /* ComplicationController.swift in Sources */,
 				567C40DC267FE394003ABC7E /* NotificationView.swift in Sources */,
