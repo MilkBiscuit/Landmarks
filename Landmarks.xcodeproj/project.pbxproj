@@ -82,6 +82,7 @@
 		567C411E267FF8F8003ABC7E /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566C58BC2677F71B0033F286 /* LandmarkRow.swift */; };
 		567C411F267FF8F8003ABC7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 562220B32676E3A300DDC0D9 /* Assets.xcassets */; };
 		567C4121267FFA2C003ABC7E /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C4120267FFA2C003ABC7E /* LandmarkDetail.swift */; };
+		567C4123267FFCB4003ABC7E /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C4122267FFCB4003ABC7E /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -185,6 +186,7 @@
 		567C410E267FF856003ABC7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		567C410F267FF856003ABC7E /* MacLandmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacLandmarks.entitlements; sourceTree = "<group>"; };
 		567C4120267FFA2C003ABC7E /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		567C4122267FFCB4003ABC7E /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -387,6 +389,7 @@
 				567C40E5267FE395003ABC7E /* PushNotificationPayload.apns */,
 				567C40E1267FE395003ABC7E /* Preview Content */,
 				567C40FD267FE651003ABC7E /* LandmarkDetail.swift */,
+				567C4122267FFCB4003ABC7E /* LandmarkList.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
@@ -631,6 +634,7 @@
 				567C40F6267FE48E003ABC7E /* CircleImage.swift in Sources */,
 				567C40DA267FE394003ABC7E /* NotificationController.swift in Sources */,
 				567C40D8267FE394003ABC7E /* ContentView.swift in Sources */,
+				567C4123267FFCB4003ABC7E /* LandmarkList.swift in Sources */,
 				567C40FC267FE48E003ABC7E /* LandmarkList.swift in Sources */,
 				567C40FA267FE48E003ABC7E /* LandmarksApp.swift in Sources */,
 				567C40FE267FE651003ABC7E /* LandmarkDetail.swift in Sources */,
