@@ -85,6 +85,7 @@
 		567C4123267FFCB4003ABC7E /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C4122267FFCB4003ABC7E /* LandmarkList.swift */; };
 		567C412526803F79003ABC7E /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C412426803F79003ABC7E /* LandmarkCommands.swift */; };
 		567C412626803F79003ABC7E /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C412426803F79003ABC7E /* LandmarkCommands.swift */; };
+		567C412826804387003ABC7E /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C412726804387003ABC7E /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -190,6 +191,7 @@
 		567C4120267FFA2C003ABC7E /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		567C4122267FFCB4003ABC7E /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		567C412426803F79003ABC7E /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		567C412726804387003ABC7E /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,6 +417,7 @@
 				567C410B267FF856003ABC7E /* Preview Content */,
 				567C4120267FFA2C003ABC7E /* LandmarkDetail.swift */,
 				567C412426803F79003ABC7E /* LandmarkCommands.swift */,
+				567C412726804387003ABC7E /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -659,6 +662,7 @@
 			files = (
 				567C411A267FF8F8003ABC7E /* MapView.swift in Sources */,
 				567C4118267FF8F8003ABC7E /* Hike.swift in Sources */,
+				567C412826804387003ABC7E /* LandmarkSettings.swift in Sources */,
 				567C4116267FF8F8003ABC7E /* FavoriteButton.swift in Sources */,
 				567C411B267FF8F8003ABC7E /* LandmarksApp.swift in Sources */,
 				567C412626803F79003ABC7E /* LandmarkCommands.swift in Sources */,
